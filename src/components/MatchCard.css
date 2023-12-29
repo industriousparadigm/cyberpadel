@@ -1,0 +1,17 @@
+.match-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.match-thumbnail {
+    width: 100%;
+    height: auto;
+}
+
+.match-date {
+    margin-top: 10px;
+}
